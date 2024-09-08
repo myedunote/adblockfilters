@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240908161849
-! Last modified: 2024/09/08 16:18:49
-! Blocked domains: 172395
+! Version: 20240909001954
+! Last modified: 2024/09/09 00:19:54
+! Blocked domains: 172405
 ! unBlocked domains: 51
 !
 ||00771944.xyz^
@@ -223,6 +223,7 @@
 ||10523745.xyz^
 ||105vibe.com^
 ||oms.1067rock.ca^
+||10753990.xyz^
 ||smetrics.1075daverocks.com^
 ||1080872514.rsc.cdn77.org^
 ||nafmxc.1083.fr^
@@ -507,6 +508,7 @@
 ||www.143nchrtl3.com^
 ||b73b66d5e6.144a0bcf96.com^
 ||144e93bbf0.com^
+||1450691516.rsc.cdn77.org^
 ||148dfe140d0f3d5e.com^
 ||boring-tesla.149-102-231-176.plesk.page^
 ||1493361689.rsc.cdn77.org^
@@ -542,6 +544,7 @@
 ||ebis.15jikai.com^
 ||sadbmetrics.15kvalencia.es^
 ||16-merchant-s.com^
+||1607162747.rsc.cdn77.org^
 ||tracker.1625djnc.com^
 ||ad.163.com^
 ||adgeo.163.com^
@@ -3141,6 +3144,7 @@
 ||84232.com^
 ||9e14a85177.8433f52821.com^
 ||8451.com^
+||84631949.xyz^
 ||tracker.8473sads.com^
 ||847h7f51.de^
 ||2f69079c52.84968e8ab0.com^
@@ -6688,6 +6692,7 @@
 ||adsemirate.com^
 ||adsend.de^
 ||adsender.us^
+||adsenix.com^
 ||adsense.com^
 ||adsensecamp.com^
 ||adsensecustomsearchads.com^
@@ -8125,6 +8130,7 @@
 ||smetrics.afvclub.ca^
 ||smetrics.afvclub.com^
 ||afxjwyg.com^
+||afy.agency^
 ||afy11.net^
 ||afyads.com^
 ||afyonturkreklam.com^
@@ -45716,6 +45722,7 @@
 ||widget.dihitt.com.br^
 ||dihutyaiafuhr.cloudfront.net^
 ||diingsinspiri.com^
+||diixqvrpoqs.com^
 ||dik.si^
 ||dikematou.com^
 ||diken.xyz^
@@ -47997,6 +48004,7 @@
 ||link.dsctrk.com^
 ||cikvwv.dsdamat.com^
 ||fam.dsdemo.jp^
+||dsdsg44.fun^
 ||dsethimdownthmo.com^
 ||dsghhbqey6ytg.cloudfront.net^
 ||dsh1ct2zrfakt.cloudfront.net^
@@ -99980,6 +99988,7 @@
 ||track.murray-intl.co.uk^
 ||go.murrelektronik.com^
 ||data-997fc825f1.murrhardter-zeitung.de^
+||murtbgab.com^
 ||murthydigitals.com^
 ||a8.musbell.co.jp^
 ||connect.care.muschealth.org^
@@ -158840,6 +158849,7 @@
 ||uu22662.com^
 ||uu593.com^
 ||uu8814.net^
+||uuajq.top^
 ||uuaoy.com^
 ||uuboos.com^
 ||uucm.cn^
