@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240911162132
-! Last modified: 2024/09/11 16:21:32
-! Blocked domains: 175114
+! Version: 20240912002036
+! Last modified: 2024/09/12 00:20:36
+! Blocked domains: 175128
 ! unBlocked domains: 51
 !
 ||foodnetworks.000.pe^
@@ -1282,7 +1282,7 @@
 ||js.263y.com^
 ||26485.top^
 ||3f2c49ab2d.265641f673.com^
-||dd18d2814e.26ea4af114.com^
+||26ea4af114.com^
 ||45d31559c9.26fc91ec79.com^
 ||ecdoib.26p.jp^
 ||26q4nn691.de^
@@ -1308,6 +1308,7 @@
 ||28d287b9.xyz^
 ||metrics.28degreescard.com.au^
 ||smetrics.28degreescard.com.au^
+||28t1ya.cn^
 ||28vulkanvegas.com^
 ||291hkcido.de^
 ||0lx.292152123.xyz^
@@ -9213,6 +9214,7 @@
 ||ajpxs.xyz^
 ||t.ajrkm.link^
 ||avlcc.ajscdn.com^
+||fimrg.ajscdn.com^
 ||lunse.ajscdn.com^
 ||xlvul.ajscdn.com^
 ||ajudabradescoprime.com^
@@ -36841,6 +36843,7 @@
 ||cocklacock.com^
 ||cocktailsandcash.com^
 ||cockyinaccessiblelighter.com^
+||cockysnailleather.com^
 ||cockzen.com^
 ||cocloud.site^
 ||a8cv.coco-gourmet.com^
@@ -48761,6 +48764,7 @@
 ||xml.dtxplatform.net^
 ||dtxtngytz5im1.cloudfront.net^
 ||dtybyfo.com^
+||dtylhedgelnham.com^
 ||dtym7iokkjlif.cloudfront.net^
 ||dtyrqq5w0qdc8.cloudfront.net^
 ||dtyry4ejybx0.cloudfront.net^
@@ -48863,6 +48867,7 @@
 ||ads.dugwood.com^
 ||pixel.dugwood.com^
 ||duhprogressive.com^
+||duhthvtcgp.com^
 ||dui88.com^
 ||m.duias.com^
 ||duiba.com.cn^
@@ -65084,6 +65089,7 @@
 ||data-47ee1b0882.groebenlichtspiele.de^
 ||data-fa59f9f6b5.groebenlichtspiele.de^
 ||groguzoo.net^
+||groleepugny.net^
 ||grooksom.com^
 ||groomoub.com^
 ||groopsie.net^
@@ -77053,6 +77059,7 @@
 ||bravo.israelweather.co.il^
 ||isragdfelpost.help^
 ||isralink.net^
+||isreputysolomo.com^
 ||isroelpost.top^
 ||isrv07.com^
 ||analytics.iss.one^
@@ -82936,6 +82943,7 @@
 ||keywordstrategy.org^
 ||keywordsuggestiontools.com^
 ||keyxel.com^
+||kezytpdsxmw.com^
 ||p.kf3msfm.com^
 ||track.kfacials.com^
 ||ssp1.kfadx.tech^
@@ -90939,6 +90947,7 @@
 ||lt27.de^
 ||lt991.com^
 ||lt997.com^
+||ltapsxz.xyz^
 ||convite.ltauweb.app^
 ||zigpdx.ltbjeans.com^
 ||ltcraft.ru^
@@ -105289,6 +105298,7 @@
 ||a8cv.nijiun.com^
 ||smetrics.nijobs.com^
 ||nijodue.pics^
+||nijosgstamb.com^
 ||nik.io^
 ||abt.nike.com^
 ||analytics.nike.com^
@@ -109642,6 +109652,7 @@
 ||oppuz.com^
 ||share.oppvenuz.com^
 ||sharelink.oppvenuz.com^
+||opqhihiw.com^
 ||sa.oprah.com^
 ||ssa.oprah.com^
 ||aiq-in.oprahdaily.com^
@@ -125647,7 +125658,7 @@
 ||a8cv.rawfood-lohas.com^
 ||rawoarsy.com^
 ||raworyahuo.live^
-||cdn.rawqel.com^
+||rawqel.com^
 ||sandviken.rawww.space^
 ||varnamo.rawww.space^
 ||vaxjo.rawww.space^
@@ -132555,6 +132566,7 @@
 ||sbbanalytics.com^
 ||sbbanner.com^
 ||sbbcffffsch01.site^
+||sbboppwsuocy.com^
 ||sbbpi.com^
 ||eye.sbc30.net^
 ||sbc31.com^
@@ -162898,6 +162910,7 @@
 ||vfastdownload.com^
 ||go.vfc.com^
 ||vfcsesjgbj.com^
+||vfdvdg67.fun^
 ||partner.vffoto.com^
 ||vfghd.com^
 ||a.vfgtb.com^
@@ -171695,6 +171708,7 @@
 ||dms.xuexxing.com^
 ||a.xuezizhai.com^
 ||xuffojr.com^
+||xuiqxlhqyo.com^
 ||xukpqemfs.com^
 ||xukpresesmr.info^
 ||xuldtcip.icu^
