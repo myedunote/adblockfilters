@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240921161931
-! Last modified: 2024/09/21 16:19:31
-! Blocked domains: 178373
+! Version: 20240922002036
+! Last modified: 2024/09/22 00:20:36
+! Blocked domains: 178401
 ! unBlocked domains: 51
 !
 ||foodnetworks.000.pe^
@@ -2172,6 +2172,7 @@
 ||allegrolokalnie.412921.shop^
 ||4151.biz^
 ||4151.tv^
+||4164d5b6eb.com^
 ||416deca3db.com^
 ||41a33ffca8.com^
 ||41bcf8ddc1.com^
@@ -8661,6 +8662,7 @@
 ||aggregateknowledge.com^
 ||aggregationcontagion.com^
 ||aggregationstiffenflamboyant.com^
+||aggressivedifficulty.com^
 ||aggressivefrequentneckquirky.com^
 ||aggshubh.com^
 ||aghtag.tech^
@@ -42597,6 +42599,7 @@
 ||axp.cw39.com^
 ||axp.cw7az.com^
 ||cwa-2020.com^
+||cwaterf.top^
 ||z1.cwbaike.com^
 ||mdws.cwbank.com^
 ||cwchmb.com^
@@ -44979,6 +44982,7 @@
 ||marketing.ddc-cabtech.com^
 ||images.ddc.com^
 ||ddcfzd.com^
+||ddctoqpfve.com^
 ||ddddynf.com^
 ||dddevki4u.com^
 ||dddiey-s1d2.com^
@@ -45474,6 +45478,7 @@
 ||delightdriving.com^
 ||delightedheavy.com^
 ||delightedintention.com^
+||delightedplash.com^
 ||delightedprawn.com^
 ||delightspiritedtroop.com^
 ||deligrassdull.com^
@@ -47397,6 +47402,7 @@
 ||disloyalmeddling.com^
 ||dismalcompassionateadherence.com^
 ||dismantleunloadaffair.com^
+||dismastrostra.com^
 ||dismay-sacred.com^
 ||dismaybrave.com^
 ||dismaytestimony.com^
@@ -50725,6 +50731,7 @@
 ||data-daab9294a5.eatclub.tv^
 ||eatengossipyautomobile.com^
 ||eaterdrewduchess.com^
+||eatmenttogeth.com^
 ||eatnjoy.xyz^
 ||content.eaton.com^
 ||hydsecure.eaton.com^
@@ -53988,6 +53995,7 @@
 ||vchat.essaygator.net^
 ||essbritanidim.club^
 ||smetrics.essds.com^
+||essededowns.click^
 ||marketing.essellc.com^
 ||data-56aa71f393.essen-und-trinken.de^
 ||data-f3bff114a4.essen-und-trinken.de^
@@ -57053,6 +57061,7 @@
 ||fdelphaswcealifornica.com^
 ||fdfeast.xyz^
 ||fdfiesta.xyz^
+||fdfqbxsaas.com^
 ||fdgeen.com^
 ||fdgem.com^
 ||fdhfs.com^
@@ -64444,6 +64453,7 @@
 ||gnugp.org^
 ||web.news.gnv.it^
 ||coyote.gnx.cloud^
+||gnyjxyzqdcjb.com^
 ||data-60d896f23d.gnz.de^
 ||data-6dde45f576.gnz.de^
 ||go-clicks.de^
@@ -66853,6 +66863,7 @@
 ||jirnxq.guud.com^
 ||m.guvdfs.cn^
 ||n.guvdfs.cn^
+||guvmcalwio.com^
 ||guvwolr.com^
 ||guw.jp^
 ||guwohvw.icu^
@@ -67405,6 +67416,7 @@
 ||haltingbadge.com^
 ||haltingdivision.com^
 ||haltough.net^
+||haltowe.info^
 ||g.haluoha.com^
 ||halveimpendinggig.com^
 ||aa-aem.hamamatsu.com^
@@ -79031,6 +79043,7 @@
 ||ixqthii.com^
 ||ixspublic.com^
 ||ixstng.cn^
+||ixtxxvbgudre.com^
 ||usda.ixuguv.top^
 ||ixunace.com^
 ||ixware.co^
@@ -79405,6 +79418,7 @@
 ||jamjamjam.biz^
 ||jammasterys.com^
 ||jamminds.com^
+||a.jamni.xyz^
 ||jampp.com^
 ||jams.wiki^
 ||jamsaingenieros.com.pe^
@@ -82505,6 +82519,7 @@
 ||jy06.shop^
 ||jy07.shop^
 ||jy08.shop^
+||jy09.shop^
 ||jy147a.com^
 ||jydyvyoluy.live^
 ||a.jyeoo.com^
@@ -83681,6 +83696,7 @@
 ||kartavisa.pl^
 ||b.karte.io^
 ||cf-native.karte.io^
+||client-log.karte.io^
 ||gae.karte.io^
 ||static.karte.io^
 ||t.karte.io^
@@ -87222,6 +87238,7 @@
 ||tg.kxyl1.cc^
 ||ackerly.kxzm.info^
 ||ups.ky-ad.info^
+||ky595images.com^
 ||kyaa.info^
 ||forms.kyano.app^
 ||ct2.kyarame.com^
@@ -102001,6 +102018,7 @@
 ||mopiez.com^
 ||mopik.pl^
 ||mopinion.com^
+||mopiwhoisqui.com^
 ||mopixelil.sbs^
 ||consent.mopo.de^
 ||data-1203b7acd3.mopo.de^
@@ -126166,6 +126184,7 @@
 ||app.qnasdaqomx.com^
 ||a.qncye.net^
 ||qnebgr.shop^
+||qnesnufjs.com^
 ||qnhuxyqjv.com^
 ||qniq.com.tw^
 ||qnjyeyc.com^
@@ -128270,6 +128289,7 @@
 ||rcadserver.com^
 ||rcb101.ru^
 ||rcblfd.xyz^
+||rccdmvlyhsuc.com^
 ||rcckzzmtst.rcckzmtst.cfd^
 ||rce.ee^
 ||rcerrohatfad.com^
@@ -130000,6 +130020,7 @@
 ||soahu1wnmt6l.www.replai.io^
 ||replanifier.net^
 ||replannedb.com^
+||replaybird.com^
 ||a.replaytheseries.com^
 ||replaythesixties.com^
 ||replica-watch.ru^
@@ -134661,6 +134682,7 @@
 ||sanglah.com^
 ||sangleysoldo.com^
 ||sangriasensation.xyz^
+||sanhpaox.xyz^
 ||sanisfeer.nl^
 ||data-31c137b707.sanitaerjournal.de^
 ||data-cf8fd9b799.sanitaerjournal.de^
@@ -135412,6 +135434,7 @@
 ||scassociatesindia.com^
 ||scat.porn^
 ||scatteredheat.com^
+||scatteredhecheaper.com^
 ||scatteredquiver.com^
 ||scatteredstream.com^
 ||scatulalactate.com^
@@ -143579,6 +143602,7 @@
 ||speakspurink.com^
 ||get.speaky.com^
 ||vote.speaqapp.com^
+||analytics.spearly.com^
 ||gas-sensing.spec-sensors.com^
 ||ks42zt.spec.fm^
 ||specficnz.org^
@@ -148988,6 +149012,7 @@
 ||szummedialny.click^
 ||szuperlotto.com^
 ||szvnmktrk.com^
+||szwschryizrb.com^
 ||szxsxx.cn^
 ||allegrolokalnie.szybka-paczka.pl^
 ||szybkapozyczkateraz.pl^
@@ -165151,6 +165176,7 @@
 ||wkkug.vcbnw.de^
 ||vcbydvfouqqyls.com^
 ||vcdc.com^
+||vcdfsf99.fun^
 ||vcdpuyl.com^
 ||spoluprace.vcelarstvi-domovina.cz^
 ||www.vcentury01.com^
@@ -176413,6 +176439,7 @@
 ||yrincelewasgiw.info^
 ||yrqwnc.cn^
 ||ushpx.yrtwime.top^
+||yrudsrdignej.com^
 ||yrwap.cn^
 ||log.ys7.com^
 ||ysb76.com^
@@ -176993,6 +177020,7 @@
 ||zbiornik.com^
 ||zboac.com^
 ||jet.zbp.ru^
+||zbrfqupfyfu.com^
 ||zbrodniadoskonala.rest^
 ||banners.zbs.ru^
 ||zbtlgd.com^
