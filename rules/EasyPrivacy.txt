@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Z1zCjrNHco7v5LBYxY9yUA
-! Version: 202411101601
+! Checksum: bWY0np0hXMuOE3JWnl1vGg
+! Version: 202411110111
 ! Title: EasyPrivacy
-! Last modified: 10 Nov 2024 16:01 UTC
+! Last modified: 11 Nov 2024 01:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
